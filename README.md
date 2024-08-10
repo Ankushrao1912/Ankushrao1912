@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Datta Ankushroa
+- 👋 Hi, I’m Datta Ankushrao
 - 👀 I’m interested in coading with Python(Django Framework)
 - 🌱 I’m currently learning M.Sc Computer Science 
 - 💞️ I’m looking to collaborate on intronships
